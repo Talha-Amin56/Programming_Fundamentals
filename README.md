@@ -20,6 +20,7 @@ The goal is to build a solid foundation in programming concepts to solve real-wo
 
 ## Technologies Used
 
+
 - Python
 - C++
 - Java (optional)
