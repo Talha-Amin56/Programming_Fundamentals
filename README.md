@@ -4,6 +4,7 @@
 
 This repository contains exercises and solutions for mastering programming fundamentals. It covers essential concepts like variables, data types, loops, conditionals, functions, and object-oriented programming.
 
+
 ## Topics Covered
 
 - Variables and Data Types
